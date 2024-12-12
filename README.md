@@ -1,6 +1,6 @@
 Hola Soy Joan Cortez 👋
 
-Soy una desarrollador junior de Alicante(Comunidad Valenciana/ España) graduado en DAM. He estado aprendiendo distintos lenguajes como son Delphi, Java y Python.
+Soy una desarrollador junior de Alicante(Comunidad Valenciana/ España) graduado en DAM. He estado aprendiendo distintos lenguajes como son Delphi, Java, Dart(Flutter) y Python.
 
 Tengo experiencia laboral con Delphi.
 
