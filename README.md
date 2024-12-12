@@ -1,5 +1,14 @@
-### Hi there 👋
+Hola Soy Joan Cortez 👋
+Soy una desarrollador junior de Alicante(Comunidad Valenciana/ España) graduado en DAM. He estado aprendiendo distintos lenguajes como son Delphi, Java y Python.
 
+Tengo experiencia laboral con Delphi.
+
+Soy una persona constante y con gran iniciativa. Soy emprendora, apasionada, se trabajar en equipo y me involucro al 100% en lo que hago.
+
+Os dejo una pequeña muestra de mis proyectos y ejercicios de los cursos que he hecho.
+
+Podeis encontrarme en:
+(www.linkedin.com/in/joan-cortez-llorca-42b8b0250)
 <!--
 **jcortezll/jcortezll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
